@@ -25,8 +25,8 @@ class simcard
 };
 int main()
 {
-    simcard s1("Airtel",9923456701,20.50,"No plan");simcard s2("Aircel",9876543210,50.00,"Active plan");
-    simcard s3("Vodafone",8796543234,45.00,"No plan");
+    simcard s1("Airtel",9923456781,20.50,"No plan");simcard s2("Aircel",9876543210,50.00,"Active plan");
+    simcard s3("Vodafone",9296543234,45.00,"No plan");
     s1.dis();
     s2.dis();
     s3.dis();
