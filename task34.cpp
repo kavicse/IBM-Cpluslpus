@@ -1,7 +1,5 @@
-
 #include <iostream>
 using namespace std;
-
 class Person
 {
      public:
@@ -19,7 +17,6 @@ class Person
         void walk() 
         { 
             cout << "I can walk."<<"\n" ; 
-            
         }
         void talk() 
         { 
@@ -36,7 +33,6 @@ class MathsTeacher : public Person
        void teachMaths()
        { 
            cout << "I can teach Maths."<<"\n" ;
-           
        }
 };
 class Footballer : public Person
