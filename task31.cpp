@@ -2,9 +2,10 @@
 using namespace std;
 class student
 {
-    public:
+    protected:
     char name[20],g[20];
     int m1,m2,m3,tot;
+    public:
     void getdata()
     {
         cout<<"Enter name\n";
