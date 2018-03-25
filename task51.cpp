@@ -1,3 +1,4 @@
+1) 1.Create a class called calculated in that have three methods with same name as Add() But it should have diffrent parameters (With int(2) parmeters,.with Float (2)parameters,with int(3) parameters,with double(3) parameters).
 #include <iostream>
 using namespace std;
  
