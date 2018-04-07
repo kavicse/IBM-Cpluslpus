@@ -38,7 +38,7 @@
 		catch (...)
 		{
 			cout << "A default exception occurred!" << endl;
-			cout << "Why? : " << str<< endl;
+			cout << "Reason : " << str<< endl;
 		}
 		return 0;
 	}
